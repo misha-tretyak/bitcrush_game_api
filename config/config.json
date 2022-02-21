@@ -1,0 +1,16 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "T2zJH?#gW_@AZc5!cB_5",
+      "database": "bitcrush",
+      "host": "104.219.251.167",
+      "dialect": "postgres"
+    },
+    "production": {
+      "username": "postgres",
+      "password": "T2zJH?#gW_@AZc5!cB_5",
+      "database": "bitcrush",
+      "host": "104.219.251.167",
+      "dialect": "postgres"
+    }
+  }
